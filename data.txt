@@ -1,0 +1,3 @@
+Name: E
+Age: 29
+Favorite Color: Teal
